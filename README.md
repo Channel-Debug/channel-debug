@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Hackintosh
-- 🖥 Apple Fan
-- 💬 Ask me about Hackintosh or iOS 
+- 🌱  I’m currently learning Hackintosh
+- 🖥  Apple Fan
+- 💬  Ask me about Hackintosh or iOS 
 - 📫  Scribe me: gabrieledepasquale198@gmail.com
-- ⚡ Fun fact: iServices are impossible to fix
+- ⚡️ Fun fact: iServices are impossible to fix
 
