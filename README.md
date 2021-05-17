@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am <a href="https://github.com/salvadordeveloper">Channel-Debug</a> 
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am <a href="https://github.com/channel-debug">Channel-Debug</a> 
 </h1>
 
 Here are some ideas to get you started:
