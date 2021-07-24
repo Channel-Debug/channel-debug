@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🖥  Apple Fan
 - 💬  Ask me about Hackintosh or iOS 
 - 📫  Scribe me: gabrieledepasquale198@gmail.com
-- ⚡️ Fun fact: iServices are impossible to fix
+- ⚡️ iService Responsable LOL
 
 
 [![](https://img.shields.io/badge/Gitter%20HL%20Community-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/Hackintosh-Life-IT/community)
