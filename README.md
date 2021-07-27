@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 - 🌱  I’m currently learning Hackintosh
 - 🖥  Apple Fan
 - 💬  Ask me about Hackintosh or iOS 
-- 📫  Scribe me: gabrieledepasquale198@gmail.com
-- ⚡️ iService Responsable LOL
+- 📫  Scribe me: info@gabrieledepaaquale.com
 
 
 [![](https://img.shields.io/badge/Gitter%20HL%20Community-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/Hackintosh-Life-IT/community)
